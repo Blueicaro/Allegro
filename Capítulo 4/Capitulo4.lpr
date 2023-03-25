@@ -1,4 +1,4 @@
-program Capitulo3;
+program Capitulo4;
 
 uses
   Allegro5,

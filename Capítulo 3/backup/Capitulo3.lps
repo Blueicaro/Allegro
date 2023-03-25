@@ -8,16 +8,38 @@
         <Filename Value="Capitulo3.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="35"/>
-        <CursorPos Y="39"/>
-        <UsageCount Value="24"/>
+        <CursorPos X="11" Y="9"/>
+        <UsageCount Value="37"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="../lib/al5acodec.pas"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="3"/>
         <TopLine Value="10"/>
         <CursorPos X="12" Y="34"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../lib/allegro5.pas"/>
+        <UnitName Value="Allegro5"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="645"/>
+        <CursorPos X="5" Y="656"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../lib/al5image.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../LazarusEstable/fpcsrc/rtl/objpas/typinfo.pp"/>
+        <UnitName Value="TypInfo"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="868"/>
+        <CursorPos X="10" Y="879"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
@@ -25,123 +47,123 @@
     <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="37" TopLine="19"/>
+        <Caret Line="109" Column="24" TopLine="92"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="36" Column="33" TopLine="19"/>
+        <Caret Line="111" Column="5" TopLine="98"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="33" Column="11" TopLine="19"/>
+        <Caret Line="89" Column="37" TopLine="83"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="34" TopLine="19"/>
+        <Caret Line="94" Column="26" TopLine="82"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="35" TopLine="19"/>
+        <Caret Line="59" Column="19" TopLine="128"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="37" TopLine="19"/>
+        <Caret Line="95" Column="23" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="../lib/allegro5.pas"/>
+        <Caret Line="1272" Column="13" TopLine="1259"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="36" Column="50" TopLine="19"/>
+        <Caret Line="95" Column="41" TopLine="70"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="33" TopLine="19"/>
+        <Caret Line="114" Column="15" TopLine="69"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="37" Column="5" TopLine="19"/>
+        <Caret Line="126" Column="13" TopLine="104"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="36" Column="43" TopLine="19"/>
+        <Caret Line="132" Column="43" TopLine="61"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="38" Column="37" TopLine="19"/>
+        <Caret Line="133" Column="47" TopLine="121"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="37" Column="16" TopLine="19"/>
+        <Caret Line="135" Column="21" TopLine="123"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="52" Column="87" TopLine="28"/>
+        <Caret Line="114" Column="47" TopLine="104"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="38" Column="36" TopLine="29"/>
+        <Caret Line="158" Column="3" TopLine="153"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="39" Column="59" TopLine="29"/>
+        <Caret Line="115" Column="18" TopLine="100"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="40" Column="44" TopLine="29"/>
+        <Caret Line="171" Column="34" TopLine="153"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="38" Column="61" TopLine="29"/>
+        <Caret Line="19" Column="3" TopLine="8"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="39" TopLine="26"/>
+        <Caret Line="171" Column="16" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="../lib/allegro5.pas"/>
+        <Caret Line="863" Column="7" TopLine="852"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="38" Column="62" TopLine="26"/>
+        <Caret Line="170" Column="11" TopLine="154"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="41" Column="5" TopLine="26"/>
+        <Caret Line="171" TopLine="154"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="40" Column="6" TopLine="26"/>
+        <Caret Line="10" Column="10"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="41" TopLine="26"/>
+        <Caret Line="172" Column="41" TopLine="155"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="40" Column="50" TopLine="26"/>
+        <Caret Line="171" TopLine="155"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="42" Column="76" TopLine="26"/>
+        <Caret Line="172" Column="29" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="../lib/allegro5.pas"/>
+        <Caret Line="863" Column="7" TopLine="852"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="46" Column="87" TopLine="35"/>
+        <Caret Line="172" Column="47" TopLine="152"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="42" Column="23" TopLine="27"/>
+        <Caret Line="171" Column="72" TopLine="152"/>
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="44" Column="19" TopLine="27"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="38" Column="29" TopLine="23"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="18" Column="2"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="66" Column="3" TopLine="53"/>
+        <Caret Line="176" TopLine="154"/>
       </Position>
     </JumpHistory>
     <RunParams>
@@ -149,4 +171,15 @@
       <Modes ActiveMode=""/>
     </RunParams>
   </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Capitulo3.lpr"/>
+        <Line Value="170"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
 </CONFIG>

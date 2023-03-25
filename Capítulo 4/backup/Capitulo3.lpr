@@ -6,7 +6,8 @@ uses
   al5audio,
   al5acodec,
   al5Base,
-  SysUtils;
+  SysUtils,
+  TypInfo;
 
 var
   ventana: ALLEGRO_DISPLAYptr;
@@ -168,6 +169,7 @@ begin
       else
       begin
         WriteLn(Evento.ftype);
+       WriteLn(GetEnumName (ALLEGRO_EVENT_TYPE,ord(Evento.ftype));
       end;
     end;
   until Terminar = True;

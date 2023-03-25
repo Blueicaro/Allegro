@@ -8,9 +8,9 @@
         <Filename Value="Capitulo3.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="47"/>
-        <CursorPos X="28" Y="61"/>
-        <UsageCount Value="38"/>
+        <TopLine Value="155"/>
+        <CursorPos X="65" Y="172"/>
+        <UsageCount Value="37"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -25,15 +25,15 @@
         <Filename Value="../lib/allegro5.pas"/>
         <UnitName Value="Allegro5"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="1862"/>
-        <CursorPos X="12" Y="1873"/>
-        <UsageCount Value="17"/>
+        <TopLine Value="634"/>
+        <CursorPos X="23" Y="648"/>
+        <UsageCount Value="16"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="../lib/al5image.pas"/>
         <EditorIndex Value="-1"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="11"/>
       </Unit>
       <Unit>
         <Filename Value="../../../../LazarusEstable/fpcsrc/rtl/objpas/typinfo.pp"/>
@@ -41,11 +41,35 @@
         <EditorIndex Value="1"/>
         <TopLine Value="868"/>
         <CursorPos X="10" Y="879"/>
-        <UsageCount Value="11"/>
+        <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="114" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="91" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="109" Column="24" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="111" Column="5" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="89" Column="37" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="94" Column="26" TopLine="82"/>
+      </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
         <Caret Line="59" Column="19" TopLine="128"/>
@@ -140,31 +164,7 @@
       </Position>
       <Position>
         <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="172" Column="47" TopLine="152"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="171" Column="72" TopLine="152"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="176" TopLine="154"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="9" Column="11"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="168" Column="63" TopLine="153"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="172" Column="29" TopLine="10"/>
-      </Position>
-      <Position>
-        <Filename Value="Capitulo3.lpr"/>
-        <Caret Line="62" Column="31" TopLine="149"/>
+        <Caret Line="172" Column="47" TopLine="155"/>
       </Position>
     </JumpHistory>
     <RunParams>
@@ -172,4 +172,15 @@
       <Modes ActiveMode=""/>
     </RunParams>
   </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Capitulo3.lpr"/>
+        <Line Value="171"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
 </CONFIG>
