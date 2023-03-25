@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Debug"/>
+    <Units>
+      <Unit>
+        <Filename Value="Capitulo3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="35"/>
+        <CursorPos Y="39"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../lib/al5acodec.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="12" Y="34"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="36" Column="33" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="33" Column="11" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="35" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="36" Column="50" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="33" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="37" Column="5" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="36" Column="43" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="38" Column="37" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="37" Column="16" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="52" Column="87" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="38" Column="36" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="39" Column="59" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="40" Column="44" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="38" Column="61" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="39" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="38" Column="62" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="41" Column="5" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="40" Column="6" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="41" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="40" Column="50" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="42" Column="76" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="46" Column="87" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="42" Column="23" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="44" Column="19" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="38" Column="29" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="18" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="Capitulo3.lpr"/>
+        <Caret Line="66" Column="3" TopLine="53"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

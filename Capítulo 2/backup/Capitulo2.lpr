@@ -17,7 +17,7 @@ var
     al_install_keyboard;
     ColaDeEventos := al_create_event_queue;
     al_register_event_source(ColaDeEventos, al_get_keyboard_event_source);
-    al_init_image_addon();
+     al_init_image_addon();
     imagen := al_load_bitmap('..' + DirectorySeparator + 'imagenes' +
       DirectorySeparator + 'soldado1.png');
   end;
@@ -37,10 +37,10 @@ var
 
   end;
 
-  procedure Pintar();
+  procedure Pintar()
   begin
-    al_draw_bitmap(imagen, 100, 100, 0);
-    al_flip_display();
+     al_draw_bitmap(imagen, 100, 100, 0);
+al_flip_display();
   end;
 
 var

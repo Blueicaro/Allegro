@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/jorge/LazarusEstable/fpc/bin/x86_64-linux/fpc.sh" Date="1642429606"/>
+  <Params Value=" -MObjFPC -Scaghi -Cg -CirotR -O1 -gw3 -gl -gh -Xg -gt -l -vewnhibq &quot;-Fi/home/jorge/Documentos/github/Allegro/Capítulo 3/lib/x86_64-linux&quot; -Fu/home/jorge/Documentos/github/Allegro/lib &quot;-Fu/home/jorge/Documentos/github/Allegro/Capítulo 3/&quot; &quot;-FU/home/jorge/Documentos/github/Allegro/Capítulo 3/lib/x86_64-linux/&quot; &quot;-FE/home/jorge/Documentos/github/Allegro/Capítulo 3/bin/&quot; &quot;-o/home/jorge/Documentos/github/Allegro/Capítulo 3/bin/Capitulo3&quot; Capitulo3.lpr"/>
+</CONFIG>
